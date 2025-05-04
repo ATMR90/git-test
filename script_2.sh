@@ -1,4 +1,4 @@
-mkdir test5
-cd test5
-touch test5.log
-echo "this is test5" >> test5.log
+mkdir test6
+cd test6
+touch test6.log
+echo "this is test6" >> test6.log
